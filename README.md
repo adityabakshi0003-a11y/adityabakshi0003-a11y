@@ -22,10 +22,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adityabakshi0003-a11y&show_icons=true&theme=tokyonight)
-
 ---
 
 > *"The best way to learn programming is to write programs."* — Dennis Ritchie
